@@ -18,7 +18,7 @@
                 - 
         - train : image
             - 계절(season) 데이터를 추가하려했으나 여름,가을만 존재하여 제외
-        - label : weather (+time(extract_time,date)
+        - label : weather (+time(extract_time,date))
         - resolution : UHD, FHD 두가지 사진 비율로 통합 필요
     
     - 데이터 구조
