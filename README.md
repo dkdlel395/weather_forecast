@@ -1,17 +1,58 @@
 ### 요구사항
 
-요구사항 v_0.1
-2. car, human detection (pretrain model)
-3. pyqt5 GUI
-4. car cross lane detection
-5. ROI custom function
-6. 비동기 처리 UI, weather, model, car detection
-7. 실시간 처리 최적화 프로그램
-8. 날씨, car 이상탐지 로그 및 알림
+<table>
+  <tr>
+    <th>요구사항</th>
+    <th>버전 v_0.1</th>
+    <th>버전 v_0.0</th>
+  </tr>
+  <tr>
+    <td>차량 및 보행자 탐지 (사전 훈련된 모델)</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PyQT5 기반 GUI</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>차량 차선 이탈 탐지</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ROI 사용자 정의 기능</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>비동기 처리 UI, 날씨, 모델, 차량 탐지</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>실시간 처리 최적화 프로그램</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>날씨, 차량 이상 탐지 로그 및 알림</td>
+    <td>✔️</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>GPU 서버 학습</td>
+    <td></td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td>날씨 예측 모델</td>
+    <td></td>
+    <td>✔️</td>
+  </tr>
+</table>
 
-요구사항 v_0.0
-0. GPU 서버 학습
-1. 날씨 예측 모델
 
 -------------------
 
