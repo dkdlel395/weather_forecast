@@ -7,6 +7,10 @@ dataset
 image
 metadata
 yolov*
+weather/log
+weather/log_1
+weather/log_2
+car/output
 
 
 
