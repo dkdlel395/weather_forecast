@@ -11,8 +11,9 @@ weather/log
 weather/log_1
 weather/log_2
 car/output
-
-
+bak
+docs
+*.ui
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
